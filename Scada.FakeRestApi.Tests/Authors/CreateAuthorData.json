@@ -1,0 +1,6 @@
+{
+  "MinAuthorId": 1000,
+  "MinBookId": 1,
+  "MaxAuthorId": 10000,
+  "MaxBookId": 100
+}
